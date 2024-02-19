@@ -4,10 +4,10 @@ with open("README.md","r",encoding="utf-8") as f:
     long_description=f.read()
 
 __version__="0.0.0"
-Repo_name="Jupyter-Notebook-renderer"
-author_name="HimanshuChoudhary3004"
-author_email="hchoudhary525@gmail.com"
-src_repo="jupyter_notebook_renderer"
+Repo_name="your repository name"
+author_name="your name"
+author_email="your email address"
+src_repo="your project name"
 
 
 setuptools.setup(
